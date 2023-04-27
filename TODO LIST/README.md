@@ -1,4 +1,4 @@
-# Todoist Clone
+# Todoist 
 
 A simple Todo List app with a UI similar to [Todoist](https://todoist.com/). Built with HTML, CSS, and JavaScript as part of The Odin Project's [curriculum](https://www.theodinproject.com/).
 
